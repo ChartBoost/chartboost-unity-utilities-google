@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Chartboost.CSharp.Utilities.Google.Unity</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>Chartboost Google Utilities for Unity</title>
     <description>Reusable Google Utilities for Chartboost's Unity Projects</description>
     <authors>Chartboost</authors>

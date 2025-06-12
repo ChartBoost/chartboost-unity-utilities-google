@@ -1,6 +1,6 @@
 {
     "name": "Charboost.Utilities.Google.Tests.Editor",
-    "rootNamespace": "Chartboost.Tests.Editor",
+    "rootNamespace": "Charboost.Utilities.Google.Tests.Editor",
     "references": [
         "Chartboost.Utilities.Editor"
     ],
