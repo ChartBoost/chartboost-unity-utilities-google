@@ -1,6 +1,6 @@
 {
   "name": "com.chartboost.unity.utilities.google",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Chartboost Google Utilities",
   "description": "Reusable Google Utilities for Chartboost's Unity Projects",
   "unity": "2022.3",

@@ -1,12 +1,12 @@
-using NUnit.Framework;
 using Chartboost.Editor;
+using NUnit.Framework;
 
-namespace Chartboost.Utilities
+namespace Charboost.Utilities.Google.Tests.Editor
 {
     public class VersionValidator
     {
-        private const string UnityPackageManagerPackageName = "com.chartboost.unity.utilities";
-        private const string NuGetPackageName = "Chartboost.CSharp.Utilities.Unity";
+        private const string UnityPackageManagerPackageName = "com.chartboost.unity.utilities.google";
+        private const string NuGetPackageName = "Chartboost.CSharp.Utilities.Google.Unity";
         
         [Test]
         public void ValidateVersion() 
